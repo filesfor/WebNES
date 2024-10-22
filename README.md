@@ -5,7 +5,7 @@ NES emulator in Javascript using HTML5 canvas. Optimised for Chrome's V8 engine.
 
 # Just play
 
-A release build can be played here [http://peteward44.github.io/WebNES](http://peteward44.github.io/WebNES)
+A release build can be played here [http://filesfor.github.io/WebNES](http://filesfor.github.io/WebNES)
 
 # Screenshots
 
